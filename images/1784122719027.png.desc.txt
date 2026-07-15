@@ -1,0 +1,1 @@
+bow, cape, collared_shirt, green_bow, green_skirt, hair_bow, print_cape, shirt, skirt, two-sided_cape, two-sided_fabric, white_cape, white_shirt
